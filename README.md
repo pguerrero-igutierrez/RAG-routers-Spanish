@@ -3,8 +3,7 @@
 [![Poster](https://img.shields.io/badge/Poster-PDF-red)](poster.pdf)
 [![Models](https://img.shields.io/badge/HuggingFace-Models-yellow)](https://huggingface.co/collections/pguerrero-igutierrez/rag-routers-spanish)
 
-**Iker Gutierrez Fandiño & Paula Guerrero Castelló**<br>
-University of the Basque Country (EHU) · Natural Language Applications II · 2025–2026
+**Iker Gutierrez Fandiño & Paula Guerrero Castelló**
 
 ---
 
@@ -309,5 +308,5 @@ Key findings:
 [GitHub Profile](https://github.com/iker-gutierrez) | [LinkedIn](https://www.linkedin.com/in/iker-gutierrez-fandino)
 
 **Paula Guerrero Castelló**<br> 
-*Computational linguist & translator*<br>
+*Computational linguist*<br>
 [GitHub Profile](https://github.com/guerreropaula) | [LinkedIn](https://www.linkedin.com/in/paula-guerrero-castelló)
